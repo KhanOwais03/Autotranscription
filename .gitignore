@@ -1,0 +1,11 @@
+# Ignore environment variables (API keys)
+.env
+
+# Ignore virtual environment
+venv/
+uploads/
+# Ignore Python cache
+__pycache__/
+
+# Ignore compiled files
+*.pyc
